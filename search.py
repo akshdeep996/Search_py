@@ -88,4 +88,4 @@ elif i == 8:
 	address = "+".join(address)
 	webbrowser.open("https://www.quora.com/search?q=" + address)
 else:
-	print("Chose from no. 1-7")
+	print("Chose from no. 1-8")
